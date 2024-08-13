@@ -17,7 +17,7 @@ public class Main {
                 res += q * b;
                 System.out.print(res + " ");
             }
-
+            System.out.println();
         }
         in.close();
 
